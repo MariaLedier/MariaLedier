@@ -12,7 +12,7 @@ Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durant
 
 **2024 - 2025**  
 Ingressei no curso de **Análise e Desenvolvimento de Sistemas** pela **UNOESTE**, onde atualmente estou no **4º termo** (7/8).  
-Com foco em desenvolvimento backend e manipulação de dados, sigo me aprimorando em diversas tecnologias, com destaque para **Java, Python, Spring Boot e SQL**.
+Com foco em desenvolvimento backend e manipulação de dados, sigo me aprimorando em diversas tecnologias, com destaque para **Javascript, Node.js, R, Oracle e SQL**.
 
 **Hoje**  
 Estou à procura da minha primeira oportunidade na área de tecnologia, já trabalho em um setor administrativo e tenho especial interesse em **análise de dados** e **desenvolvimento front-end**, e estou sempre aberta a aprender mais e enfrentar novos desafios.
