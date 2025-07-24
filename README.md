@@ -5,7 +5,7 @@
 </div>
 
 ---
-<h2 color:FFD700&lines>Minha Jornada</h2>
+<h2>Minha Jornada</h2>
 
 **2022 - 2024**  
 Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para começar minha tragetória na TI.
@@ -19,15 +19,15 @@ Estou à procura da minha primeira oportunidade na área de tecnologia, já trab
 
 ---
 
-## 👩‍💻 Sobre Mim
+<h2>Sobre mim</h2>
 
 Sou uma pessoa comunicativa, curiosa e com facilidade em trabalhar em equipe. Tenho grande interesse por resolver problemas reais com tecnologia e estou constantemente estudando...
 
 ---
 
-## 💡 Tecnologias e Ferramentas
+<h2>Tecnologia e Ferramentas</h2>
 
-[![My Skills](https://skillicons.dev/icons?perline=12&i=js,java,python,spring,cpp,postgres,mysql,html,css,cs,dotnet,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=12&i=js,cpp,mysql,html,css)](https://skillicons.dev)
 
 ---
 
@@ -40,20 +40,11 @@ Sou uma pessoa comunicativa, curiosa e com facilidade em trabalhar em equipe. Te
 
 ---
 
-## 🌱 Atualmente
-
-- 🔍 Buscando uma oportunidade como **dev backend** ou **trainee em dados**
-- 📚 Estudando **Data Science**, **Java com Spring Boot** e **estruturas de dados**
-- 💻 Desenvolvendo projetos próprios para reforçar o portfólio
-- 🤝 Aberta a colaborações e networking
-
----
-
 ## 📬 Onde Me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seu-insta)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55seunumero?text=Ol%C3%A1%2C+vi+seu+GitHub+e+gostaria+de+conversar!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-ledier-050522264/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maria_ledier/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518997365839text=Ol%C3%A1%2C+vi+seu+GitHub+e+gostaria+de+conversar!)
 
 ---
 
