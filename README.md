@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Desenvolvedora+em+formação;Apaixonada+por+Design;Buscando+novos+desafios!" />
 </div>
 
----
+
 <h2>Minha Jornada</h2>
 
 **2022 - 2024**  
