@@ -5,7 +5,7 @@
 </div>
 
 ---
-<h2 color:FFD700>Minha Jornada</h2>
+<h2 color:FFD700&lines>Minha Jornada</h2>
 
 **2022 - 2024**  
 Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para começar minha tragetória na TI.
