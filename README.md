@@ -1,7 +1,7 @@
 <h1 align="center" font-size=20px>✨ Olá, eu sou a Maria Ledier! ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Desenvolvedora+em+formação;Apaixonada+por+tecnologia+e+curiosidade+infinita;Buscando+novos+desafios!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Desenvolvedora+em+formação;Apaixonada+por+Desing;Buscando+novos+desafios!" />
 </div>
 
 ---
