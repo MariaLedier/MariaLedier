@@ -8,14 +8,14 @@
 
 ## 🧭 Minha Jornada
 
-🎓 **2022 - 2024**  
+**2022 - 2024**  
 Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para começar minha tragetória na TI.
 
-📚 **2024 - 2025**  
+**2024 - 2025**  
 Ingressei no curso de **Análise e Desenvolvimento de Sistemas** pela **UNOESTE**, onde atualmente estou no **4º termo** (7/8).  
 Com foco em desenvolvimento backend e manipulação de dados, sigo me aprimorando em diversas tecnologias, com destaque para **Java, Python, Spring Boot e SQL**.
 
-🚀 **Hoje**  
+**Hoje**  
 Estou à procura da minha primeira oportunidade na área de tecnologia, já trabalho em um setor administrativo e tenho especial interesse em **análise de dados** e **desenvolvimento front-end**, e estou sempre aberta a aprender mais e enfrentar novos desafios.
 
 ---
