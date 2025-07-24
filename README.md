@@ -1,28 +1,28 @@
 <h1 align="center" font-size=20px>✨ Olá, eu sou a Maria Ledier! ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Desenvolvedora+em+formação;Apaixonada+por+Desing;Buscando+novos+desafios!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Desenvolvedora+em+formação;Apaixonada+por+Design;Buscando+novos+desafios!" />
 </div>
 
 ---
 
 ## 🧭 Minha Jornada
 
-🎓 **2019 - 2021**  
-Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para confirmar minha paixão pela área.
+🎓 **2022 - 2024**  
+Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para começar minha tragetória na TI.
 
-📚 **2022 - Atualmente**  
+📚 **2024 - 2025**  
 Ingressei no curso de **Análise e Desenvolvimento de Sistemas** pela **UNOESTE**, onde atualmente estou no **4º termo** (7/8).  
 Com foco em desenvolvimento backend e manipulação de dados, sigo me aprimorando em diversas tecnologias, com destaque para **Java, Python, Spring Boot e SQL**.
 
 🚀 **Hoje**  
-Estou à procura da minha primeira oportunidade na área de tecnologia! Tenho especial interesse em **ciência de dados** e **desenvolvimento backend**, e estou sempre aberta a aprender mais e enfrentar novos desafios.
+Estou à procura da minha primeira oportunidade na área de tecnologia, já trabalho em um setor administrativo e tenho especial interesse em **análise de dados** e **desenvolvimento front-end**, e estou sempre aberta a aprender mais e enfrentar novos desafios.
 
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Sou uma pessoa comunicativa, curiosa e com facilidade em trabalhar em equipe. Tenho grande interesse por resolver problemas reais com tecnologia e estou constantemente estudando e aplicando novos conhecimentos por meio de projetos próprios.
+Sou uma pessoa comunicativa, curiosa e com facilidade em trabalhar em equipe. Tenho grande interesse por resolver problemas reais com tecnologia e estou constantemente estudando...
 
 ---
 
