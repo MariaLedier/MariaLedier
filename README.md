@@ -11,7 +11,7 @@
 Iniciei minha graduação em **Bacharelado em Sistemas de Informação**. Durante esse tempo, adquiri uma base sólida em lógica de programação, algoritmos e estrutura de dados. Apesar de não ter concluído, esse período foi essencial para começar minha tragetória na TI.
 
 **2024 - 2025**  
-Ingressei no curso de **Análise e Desenvolvimento de Sistemas** pela **UNOESTE**, onde atualmente estou no **4º termo** (7/8).  
+Ingressei no curso de **Análise e Desenvolvimento de Sistemas** pela **UNOESTE**, onde atualmente estou no **4º termo** (4/5).  
 Com foco em desenvolvimento backend e manipulação de dados, sigo me aprimorando em diversas tecnologias, com destaque para **Javascript, Node.js, R, Oracle e SQL**.
 
 **Hoje**  
